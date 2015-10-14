@@ -1,0 +1,5 @@
+C:\Users\Margarit\Desktop\Software University\Homework3\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe
+C:\Users\Margarit\Desktop\Software University\Homework3\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.pdb
+C:\Users\Margarit\Desktop\Software University\Homework3\ExchangeVariableValues\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Margarit\Desktop\Software University\Homework3\ExchangeVariableValues\obj\x86\Debug\ExchangeVariableValues.exe
+C:\Users\Margarit\Desktop\Software University\Homework3\ExchangeVariableValues\obj\x86\Debug\ExchangeVariableValues.pdb

@@ -1,0 +1,5 @@
+C:\Users\Margarit\Desktop\Software University\Homework3\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe
+C:\Users\Margarit\Desktop\Software University\Homework3\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.pdb
+C:\Users\Margarit\Desktop\Software University\Homework3\VariableInHexadecimalFormat\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Margarit\Desktop\Software University\Homework3\VariableInHexadecimalFormat\obj\x86\Debug\VariableInHexadecimalFormat.exe
+C:\Users\Margarit\Desktop\Software University\Homework3\VariableInHexadecimalFormat\obj\x86\Debug\VariableInHexadecimalFormat.pdb

@@ -1,0 +1,5 @@
+C:\Users\Margarit\Desktop\Software University\Homework3\EmployeeData\bin\Debug\EmployeeData.exe
+C:\Users\Margarit\Desktop\Software University\Homework3\EmployeeData\bin\Debug\EmployeeData.pdb
+C:\Users\Margarit\Desktop\Software University\Homework3\EmployeeData\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Margarit\Desktop\Software University\Homework3\EmployeeData\obj\x86\Debug\EmployeeData.exe
+C:\Users\Margarit\Desktop\Software University\Homework3\EmployeeData\obj\x86\Debug\EmployeeData.pdb

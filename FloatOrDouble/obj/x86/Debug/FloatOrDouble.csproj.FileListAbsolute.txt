@@ -1,0 +1,5 @@
+C:\Users\Margarit\Desktop\Software University\Homework3\FloatOrDouble\bin\Debug\FloatOrDouble.exe
+C:\Users\Margarit\Desktop\Software University\Homework3\FloatOrDouble\bin\Debug\FloatOrDouble.pdb
+C:\Users\Margarit\Desktop\Software University\Homework3\FloatOrDouble\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Margarit\Desktop\Software University\Homework3\FloatOrDouble\obj\x86\Debug\FloatOrDouble.exe
+C:\Users\Margarit\Desktop\Software University\Homework3\FloatOrDouble\obj\x86\Debug\FloatOrDouble.pdb

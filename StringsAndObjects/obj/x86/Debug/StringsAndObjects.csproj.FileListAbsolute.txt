@@ -1,0 +1,5 @@
+C:\Users\Margarit\Desktop\Software University\Homework3\StringsAndObjects\bin\Debug\StringsAndObjects.exe
+C:\Users\Margarit\Desktop\Software University\Homework3\StringsAndObjects\bin\Debug\StringsAndObjects.pdb
+C:\Users\Margarit\Desktop\Software University\Homework3\StringsAndObjects\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Margarit\Desktop\Software University\Homework3\StringsAndObjects\obj\x86\Debug\StringsAndObjects.exe
+C:\Users\Margarit\Desktop\Software University\Homework3\StringsAndObjects\obj\x86\Debug\StringsAndObjects.pdb

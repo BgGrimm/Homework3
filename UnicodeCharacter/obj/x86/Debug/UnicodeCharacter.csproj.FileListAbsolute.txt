@@ -1,0 +1,5 @@
+C:\Users\Margarit\Desktop\Software University\Homework3\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe
+C:\Users\Margarit\Desktop\Software University\Homework3\UnicodeCharacter\bin\Debug\UnicodeCharacter.pdb
+C:\Users\Margarit\Desktop\Software University\Homework3\UnicodeCharacter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Margarit\Desktop\Software University\Homework3\UnicodeCharacter\obj\x86\Debug\UnicodeCharacter.exe
+C:\Users\Margarit\Desktop\Software University\Homework3\UnicodeCharacter\obj\x86\Debug\UnicodeCharacter.pdb

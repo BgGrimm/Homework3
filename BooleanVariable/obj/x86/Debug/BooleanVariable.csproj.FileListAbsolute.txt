@@ -1,0 +1,7 @@
+C:\Users\Margarit\Desktop\Software University\Homework3\BooleanVariable\bin\Debug\BooleanVariable.exe
+C:\Users\Margarit\Desktop\Software University\Homework3\BooleanVariable\bin\Debug\BooleanVariable.pdb
+C:\Users\Margarit\Desktop\Software University\Homework3\BooleanVariable\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Margarit\Desktop\Software University\Homework3\BooleanVariable\obj\x86\Debug\BooleanVariable.exe
+C:\Users\Margarit\Desktop\Software University\Homework3\BooleanVariable\obj\x86\Debug\BooleanVariable.pdb
+C:\Users\Margarit\Desktop\Software University\3.Примитивни типове данни и променливи\Homework3\BooleanVariable\obj\x86\Debug\BooleanVariable.exe
+C:\Users\Margarit\Desktop\Software University\3.Примитивни типове данни и променливи\Homework3\BooleanVariable\obj\x86\Debug\BooleanVariable.pdb

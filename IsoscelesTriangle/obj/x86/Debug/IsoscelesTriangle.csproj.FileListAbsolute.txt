@@ -1,0 +1,5 @@
+C:\Users\Margarit\Desktop\Software University\Homework3\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe
+C:\Users\Margarit\Desktop\Software University\Homework3\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.pdb
+C:\Users\Margarit\Desktop\Software University\Homework3\IsoscelesTriangle\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Margarit\Desktop\Software University\Homework3\IsoscelesTriangle\obj\x86\Debug\IsoscelesTriangle.exe
+C:\Users\Margarit\Desktop\Software University\Homework3\IsoscelesTriangle\obj\x86\Debug\IsoscelesTriangle.pdb

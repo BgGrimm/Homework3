@@ -1,0 +1,7 @@
+C:\Users\Margarit\Desktop\Software University\Homework3\DeclaireVariables\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Margarit\Desktop\Software University\Homework3\DeclaireVariables\bin\Debug\DeclaireVariables.exe
+C:\Users\Margarit\Desktop\Software University\Homework3\DeclaireVariables\bin\Debug\DeclaireVariables.pdb
+C:\Users\Margarit\Desktop\Software University\Homework3\DeclaireVariables\obj\x86\Debug\DeclaireVariables.exe
+C:\Users\Margarit\Desktop\Software University\Homework3\DeclaireVariables\obj\x86\Debug\DeclaireVariables.pdb
+C:\Users\Margarit\Desktop\Software University\3.Примитивни типове данни и променливи\Homework3\DeclaireVariables\obj\x86\Debug\DeclaireVariables.exe
+C:\Users\Margarit\Desktop\Software University\3.Примитивни типове данни и променливи\Homework3\DeclaireVariables\obj\x86\Debug\DeclaireVariables.pdb

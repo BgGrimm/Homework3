@@ -1,0 +1,5 @@
+C:\Users\Margarit\Desktop\Software University\Homework3\QuotesInStrings\bin\Debug\QuotesInStrings.exe
+C:\Users\Margarit\Desktop\Software University\Homework3\QuotesInStrings\bin\Debug\QuotesInStrings.pdb
+C:\Users\Margarit\Desktop\Software University\Homework3\QuotesInStrings\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Margarit\Desktop\Software University\Homework3\QuotesInStrings\obj\x86\Debug\QuotesInStrings.exe
+C:\Users\Margarit\Desktop\Software University\Homework3\QuotesInStrings\obj\x86\Debug\QuotesInStrings.pdb

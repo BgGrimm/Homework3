@@ -1,0 +1,7 @@
+C:\Users\Margarit\Desktop\Software University\Homework3\BankAccountData\bin\Debug\BankAccountData.exe
+C:\Users\Margarit\Desktop\Software University\Homework3\BankAccountData\bin\Debug\BankAccountData.pdb
+C:\Users\Margarit\Desktop\Software University\Homework3\BankAccountData\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Margarit\Desktop\Software University\Homework3\BankAccountData\obj\x86\Debug\BankAccountData.exe
+C:\Users\Margarit\Desktop\Software University\Homework3\BankAccountData\obj\x86\Debug\BankAccountData.pdb
+C:\Users\Margarit\Desktop\Software University\3.Примитивни типове данни и променливи\Homework3\BankAccountData\obj\x86\Debug\BankAccountData.exe
+C:\Users\Margarit\Desktop\Software University\3.Примитивни типове данни и променливи\Homework3\BankAccountData\obj\x86\Debug\BankAccountData.pdb
